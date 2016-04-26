@@ -1,0 +1,28 @@
+{
+  "name": "gulp-html-minifier",
+  "version": "1.0.0",
+  "description": "gulp plugin html-minifier",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:yfdezhuye/gulp-html-minifier.git"
+  },
+  "keywords": [
+    "gulp",
+    "html-minifier",
+    "gulpplugin"
+  ],
+  "author": "muyi",
+  "license": "ISC",
+  "dependencies": {
+    "gulp-util": "^3.0.7",
+    "html-minifier": "^2.1.0",
+    "through2": "^2.0.1"
+  },
+  "devDependencies": {
+    "mocha": "^2.4.5"
+  }
+}
