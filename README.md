@@ -1,6 +1,6 @@
 # gulp-html-minifier
 
-## Minify HTML with html-minifier tools
+#### Minify HTML with html-minifier tools
 
 ### example
 
