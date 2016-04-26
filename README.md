@@ -19,3 +19,6 @@
 ### options
     
     please reference html-minifier [options]:https://github.com/kangax/html-minifier#minification-comparison
+    
+    
+    [id]: <http://example.com/>  "Optional Title Here"
