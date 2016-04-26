@@ -15,7 +15,7 @@
     "html-minifier",
     "gulpplugin"
   ],
-  "author": "gener",
+  "author": "gener <yfdezhuye@sohu.com>",
   "license": "ISC",
   "dependencies": {
     "gulp-util": "^3.0.7",
