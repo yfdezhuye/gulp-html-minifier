@@ -15,3 +15,7 @@
             }))
             .pipe(gulp.dest('./views'))
     });
+    
+### options
+    
+    please reference html-minifier [options](https://github.com/kangax/html-minifier#minification-comparison)
